@@ -7,7 +7,7 @@ public class TodoServiceTest {
     public void deveAdicionarTarefa() {
         TodoService service = new TodoService();
 
-        service.adicionar(new Todo("Estudar QA"));
+        service.adicionar(new Todo(""));
 
         assertEquals(1, service.listar().size());
     }

@@ -29,3 +29,9 @@ Aplicação simples em Java que simula um CRUD de tarefas.
 ## Execução
 
 Executar a classe `TodoServiceTest` para rodar os testes.
+
+Teste realizado com sucesso.
+![img.png](img.png)
+
+Teste de erro.
+![img_1.png](img_1.png)
